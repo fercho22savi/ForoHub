@@ -1,0 +1,10 @@
+{
+  "properties": [
+    {
+      "name": "jwt.secret",
+      "type": "java.lang.String",
+      "description": "Firma secreta para la generación y validación de tokens JWT. Debe tener al menos 32 caracteres.",
+      "defaultValue": "clave_secreta_forohub"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+ALTER TABLE topicos
+    ADD estado VARCHAR(30) DEFAULT 'ABIERTO';

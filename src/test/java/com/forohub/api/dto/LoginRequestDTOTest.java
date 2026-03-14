@@ -1,0 +1,16 @@
+package com.forohub.api.dto;
+
+import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+class LoginRequestDTOTest {
+
+    @Test
+    void email() {
+    }
+
+    @Test
+    void contrasena() {
+    }
+}

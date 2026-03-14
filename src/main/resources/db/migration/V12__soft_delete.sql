@@ -1,0 +1,8 @@
+ALTER TABLE usuarios
+    ADD eliminado BOOLEAN DEFAULT FALSE;
+
+ALTER TABLE topicos
+    ADD eliminado BOOLEAN DEFAULT FALSE;
+
+ALTER TABLE respuestas
+    ADD eliminado BOOLEAN DEFAULT FALSE;
